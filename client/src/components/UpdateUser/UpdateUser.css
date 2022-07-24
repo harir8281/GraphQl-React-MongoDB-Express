@@ -1,0 +1,24 @@
+.updateuser-container{
+    flex: 1;
+    background-color: rgb(242, 20, 153);
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+.updateuser-input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+    padding: 5px;
+}
+.updateuser-button{
+    margin-top: 5px;
+    border: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+.updateuser-button:active{
+    background-color: greenyellow;
+}

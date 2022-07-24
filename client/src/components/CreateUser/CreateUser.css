@@ -1,0 +1,24 @@
+.createuser-container{
+    flex: 1;
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+.createuser-input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+    padding: 5px;
+}
+.createuser-button{
+    margin-top: 5px;
+    border: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 5px;
+
+}
+.createuser-button:active{
+    background-color: greenyellow;
+}
